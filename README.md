@@ -1,4 +1,4 @@
-# Dict.js 
+# Dict.js [![Node.js CI](https://github.com/nyinyithann/dict.js/actions/workflows/node.js.yml/badge.svg)](https://github.com/nyinyithann/dict.js/actions/workflows/node.js.yml)
 
 Dict.js is a JavaScript library for nodeJS and browser. Dict.js extends JavaScript Map. The library is heavily inspired and influenced by F# Map module.
 
